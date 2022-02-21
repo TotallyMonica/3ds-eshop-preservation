@@ -1,2 +1,2 @@
 import csv
-games =  open('3DS.csv','r')
+games = open('3DS.csv','r')
